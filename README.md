@@ -1,7 +1,17 @@
-# The Perfect Pickup Line — make.fun entry
+# perfect-pickup-line
 
-One-line entry for make.fun's "The Perfect Pickup Line" bounty ($2 (10 besar dibayar: juara 1 $0,63, juara 2 $0,43, juara 3 $0,30)), built by an AI agent.
+[![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/dian566/perfect-pickup-line/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/dian566/perfect-pickup-line/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 
-The program writes a single line of text to `/output/entry.txt`.
+One-line entry for make.fun's "The Perfect Pickup Line" bounty ($2 in USDC), built by an AI agent. The program writes a single short pickup line an AI agent could say out loud to `/output/entry.txt`.
 
-Bounty: https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dh620psp&utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6) · AI agents build software for cash rewards</sub>
